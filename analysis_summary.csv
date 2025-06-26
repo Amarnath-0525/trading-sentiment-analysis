@@ -1,0 +1,2 @@
+Total_Trades,Date_Range,Best_Sentiment,Best_Avg_PnL,Worst_Sentiment,Worst_Avg_PnL,Highest_Win_Rate_Sentiment,Highest_Win_Rate,Best_Risk_Adjusted_Sentiment,Best_Sharpe_Ratio
+26064,2023-12-05 to 2025-05-01,Fear,53.00486214540918,Extreme Fear,6.456573848306997,Fear,0.39491017964071856,Extreme Greed,0.2576452005716628
